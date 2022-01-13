@@ -1,0 +1,33 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add discord.js
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\Microsoft VS Code\bin;C:\Users\anton\AppData\Local\Microsoft\WindowsApps;C:\Users\anton\AppData\Roaming\npm;C:\Users\anton\AppData\Local\Yarn\bin;C:\Users\anton\AppData\Local\GitHubDesktop\bin
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  17.3.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EBUSY: resource busy or locked, rmdir 'C:\Users\anton\Desktop\discord-logger\node_modules\canvas'
+
+npm manifest: 
+  {
+    "name": "discord-logger",
+    "version": "1.0.0",
+    "description": "Discord Logs for discord.js v13",
+    "main": "index.js",
+    "author": "Antonis Karagiannis",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

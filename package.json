@@ -1,0 +1,12 @@
+{
+  "name": "discord-logger",
+  "version": "1.0.0",
+  "description": "Discord Logs for discord.js v13",
+  "main": "index.js",
+  "author": "Antonis Karagiannis",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^13.6.0"
+  }
+}
